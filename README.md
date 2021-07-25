@@ -32,3 +32,10 @@ You can download the pre-processed data from [GoogleDrive](https://drive.google.
 cd data
 unzip <path to hdm05.zip>
 ```
+run 
+
+``` 
+cd demo
+python untargeted_attack_op_stgcn_hdm05.py
+```
+
