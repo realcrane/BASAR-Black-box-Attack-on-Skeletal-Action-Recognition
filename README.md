@@ -26,6 +26,7 @@ The code has not been exhaustively tested. You need to run it at your own risk. 
 ### HDM05 demo
 
 * The code assumes that you have normalised your data and know how to recover it after learning.
+* After attack, we provide a not-so-structured code snippet for unnormalising the adversarial samples in datapress/post-processing.py
 
 You can download the pre-processed data from [GoogleDrive](https://drive.google.com/file/d/1LyD-jf3X20wBbhKu071AwDDYvzFN7wjT/view?usp=sharing) or [BaiduYun(password:fmhm)](https://pan.baidu.com/s/1Itb94YjwUVqZmM9HLW6U3g) and extract files with
 ``` 
@@ -39,3 +40,48 @@ cd demo
 python untargeted_attack_op_stgcn_hdm05.py
 ```
 
+### Apologies
+
+Due to the workload, the code is not constructed perfectly. Some code reading is probably needed before you can run the code. 
+
+## Authors
+
+Yunfeng Diao, Tianjia Shao, Yongliang Yang, Kun Zhou and He Wang
+
+He Wang, h.e.wang@leeds.ac.uk, [Personal website](https://drhewang.com)
+
+Project Webpage: http://drhewang.com/pages/AAHAR.html
+
+## Version History
+* 0.1
+    * Initial Release
+
+## Citation (Bibtex)
+Please cite our papers on action recognition attacks!
+
+1. Yunfeng Diao, Tianjia Shao, Yongliang Yang, Kun Zhou and He Wang, BASAR:Black-box Attack on Skeletal Action Recognition, CVPR 2021
+
+    @InProceedings{Diao_Basar_2020,
+    author={Yunfeng Diao, Tianjia Shao, Yongliang Yang, Kun Zhou and He Wang},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    title={BASAR:Black-box Attack on Skeletal Action Recognition},
+    year={2021},
+    month={June},
+}
+
+2. He Wang, Feixiang He, Zhexi Peng, Tianjia Shao, Yongliang Yang, Kun Zhou and David Hogg, Understanding the Robustness of Skeleton-based Action Recognition under Adversarial Attack, CVPR 2021
+
+    @InProceedings{Wang_Understanding_2020,
+    author={He Wang, Feixiang He, Zhexi Peng, Tianjia Shao, Yongliang Yang, Kun Zhou and David Hogg},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    title={Understanding the Robustness of Skeleton-based Action Recognition under Adversarial Attack},
+    year={2021},
+    month={June},
+    }
+
+
+## Contact
+Please email Yunfeng Diao dyf@my.swjtu.edu.cn for further questions.
+
+## Acknowledgments
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 899739 CrowdDNA, EPSRC (EP/R031193/1), NSF China (No. 61772462, No. U1736217), RCUK grant CAMERA (EP/M023281/1, EP/T014865/1) and the 100 Talents Program of Zhejiang University.
