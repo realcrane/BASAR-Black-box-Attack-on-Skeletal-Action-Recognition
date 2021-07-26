@@ -59,7 +59,7 @@ Project Webpage: http://drhewang.com/pages/AAHAR.html
     * Initial Release
 
 ## Citation (Bibtex)
-Please cite our papers on action recognition attacks!
+Please cite our papers if you find it useful:
 
 1. Yunfeng Diao, Tianjia Shao, Yongliang Yang, Kun Zhou and He Wang, BASAR:Black-box Attack on Skeletal Action Recognition, CVPR 2021
 
