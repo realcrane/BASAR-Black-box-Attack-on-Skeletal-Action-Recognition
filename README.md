@@ -82,7 +82,7 @@ Please cite our papers if you find it useful:
 
 
 ## Contact
-Please email Yunfeng Diao dyf@my.swjtu.edu.cn for further questions.
+Please email Yunfeng Diao diaoyunfeng@hfut.edu.cn for further questions.
 
 ## Acknowledgments
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 899739 CrowdDNA, EPSRC (EP/R031193/1), NSF China (No. 61772462, No. U1736217), RCUK grant CAMERA (EP/M023281/1, EP/T014865/1) and the 100 Talents Program of Zhejiang University.
