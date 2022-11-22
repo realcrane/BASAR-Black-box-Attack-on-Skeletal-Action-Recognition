@@ -47,7 +47,7 @@ Due to the workload, the code is not constructed perfectly. Some code reading is
 
 Yunfeng Diao, Tianjia Shao, Yongliang Yang, Kun Zhou and He Wang
 
-Yunfeng Diao, diaoyunfeng@hfut.edu.cn
+Yunfeng Diao, diaoyunfeng@hfut.edu.cn, [Faculty page](http://faculty.hfut.edu.cn/diaoyunfeng/en/index.htm)
 
 He Wang, h.e.wang@leeds.ac.uk, [Personal website](https://drhewang.com)
 
