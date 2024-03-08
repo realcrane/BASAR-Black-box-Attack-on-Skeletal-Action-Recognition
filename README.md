@@ -49,7 +49,7 @@ Yunfeng Diao, Tianjia Shao, Yongliang Yang, Kun Zhou and He Wang
 
 Yunfeng Diao, diaoyunfeng@hfut.edu.cn, [Faculty page](http://faculty.hfut.edu.cn/diaoyunfeng/en/index.htm)
 
-He Wang, h.e.wang@leeds.ac.uk, [Personal website](https://drhewang.com)
+He Wang, he_wang@@ucl.ac.uk, [Personal website](https://drhewang.com)
 
 Project Webpage: http://drhewang.com/pages/AAHAR.html
 
