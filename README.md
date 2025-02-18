@@ -60,7 +60,28 @@ Project Webpage: http://drhewang.com/pages/AAHAR.html
 ## Citation (Bibtex)
 Please cite our papers if you find it useful:
 
-1. He Wang*, Yunfeng Diao*, Zichang Tan and Guodong Guo, Defending Black-box Skeleton-based Human Activity Classifiers, the AAAI conference on Aritificial Intelligence (AAAI) 2023.
+1. Yunfeng Diao, Baiqi Wu, Ruixuan Zhang, Ajian Liu, Xingxing Wei, Meng Wang, and He Wang, TASAR: Transfer-based Attack on Skeletal Action Recognition, International Conference on Learning Representations (ICLR) 2025.
+
+    @inproceedings{diao2025tasar,
+     author = {Yunfeng Diao and Baiqi Wu and Ruixuan Zhang and Ajian Liu and Xingxing Wei and Meng Wang and He Wang},
+     title = {TASAR: Transfer-based Attack on Skeletal Action Recognition},
+     booktitle = {The International Conference on Learning Representations (ICLR)},
+     year = {2025}
+   }
+
+3.  Yunfeng Diao*, He Wang*, Tianjia Shao, Yong-Liang Yang, Kun Zhou, David Hogg, Understanding the Vulnerability of Skeleton-based Human Activity Recognition via Black-box Attack, Pattern Recognition 2024.
+  
+    @article{diao2024understanding,
+     title={Understanding the vulnerability of skeleton-based Human Activity Recognition via black-box attack},
+     author={Diao, Yunfeng and Wang, He and Shao, Tianjia and Yang, Yongliang and Zhou, Kun and Hogg, David and Wang, Meng},
+     journal={Pattern Recognition},
+     volume={153},
+     pages={110564},
+     year={2024},
+     publisher={Elsevier}
+   }
+
+4. He Wang*, Yunfeng Diao*, Zichang Tan and Guodong Guo, Defending Black-box Skeleton-based Human Activity Classifiers, the AAAI conference on Aritificial Intelligence (AAAI) 2023.
  
     @InProceedings{Wang_Defending_2023,
     author={Wang, He and Diao, Yunfeng and Tan, Zichang and Guo, Guodong},
@@ -68,15 +89,6 @@ Please cite our papers if you find it useful:
     title={Defending Black-box Skeleton-based Human Activity Classifiers},
     year={2023},
     month={June},
-    }
-2.  Yunfeng Diao*, He Wang*, Tianjia Shao, Yong-Liang Yang, Kun Zhou, David Hogg, Understanding the Vulnerability of Skeleton-based Human Activity Recognition via Black-box Attack, arxiv 2022.
-  
-    @misc{Diao_understanding_2022,
-    url = {https://arxiv.org/abs/2211.11312},
-    author = {Diao, Yunfeng and Wang, He and Shao, Tianjia and Yang, Yong-Liang and Zhou, Kun and Hogg, David},
-    title = {Understanding the Vulnerability of Skeleton-based Human Activity Recognition via Black-box Attack},
-    publisher = {arXiv},
-    year = {2022}
     }
 
 3. He Wang, Feixiang He, Zhexi Peng, Tianjia Shao, Yongliang Yang, Kun Zhou and David Hogg, Understanding the Robustness of Skeleton-based Action Recognition under Adversarial Attack, CVPR 2021
